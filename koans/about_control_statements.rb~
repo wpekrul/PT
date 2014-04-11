@@ -122,3 +122,5 @@ end
     end
     assert_equal 10, sum
   end
+
+end
